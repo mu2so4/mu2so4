@@ -4,6 +4,11 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/mu2so4)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" height="200px"/>
+</div>
+
+---
 ### About me
 - 🎓 I'm currently studying in the <b>Novosibirsk State University</b>: 3 years of bachelor are behind
 - 🌱 I’m currently learning: **C++**
@@ -20,6 +25,7 @@
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="electron"/>&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash"/>
 
+---
 ### 🎯 My stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mu2so4&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mu2so4&theme=react)
@@ -27,10 +33,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mu2so4&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mu2so4&theme=react&utcOffset=8)
 
-<iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
-
-<img src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360"></img>
-
-<!--
-<p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
--->
