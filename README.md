@@ -20,6 +20,13 @@
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="electron"/>&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash"/>
 
+### 🎯 My stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mu2so4&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mu2so4&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mu2so4&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mu2so4&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mu2so4&theme=react&utcOffset=8)
+
 <iframe src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1">via GIPHY</a></p>
 
 <img src="https://giphy.com/embed/k0ijJhqrUP4T2EvmJ1" width="480" height="360"></img>
