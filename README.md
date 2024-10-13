@@ -11,18 +11,20 @@
 
 ---
 ### About me
-- 🎓 I'm currently studying in the <b>Novosibirsk State University</b>: 4 years of bachelor are behind
-- 🌱 I’m currently learning Spring: Boot and Security. Next objective is: React.js
+- 💼 I'm a [PetroGM](https://petrogm.com) C# developer (since July 2024)
+- 🎓 I'm currently studying in the <b>Novosibirsk State University</b>: graduate of the Faculty of IT (2024), currently in my first year of Master's degree in Mechanics and Mathematics
+- 🌱 I’m currently learning .NET
 - 🗺️ I speak English and Russian
 
 ### Languages and tools
+<img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" />&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java"/>&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="cpp"/>&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python"/>&nbsp;
-<img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="python"/>&nbsp;
+<img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript"/>&nbsp;
+<img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" title="dotnet" />&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql"/>&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="spring"/>&nbsp;
-<img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git"/>&nbsp;
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash"/>
 
 ---
